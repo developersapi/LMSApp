@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :microscope: O PROJETO: 
 
-<p align="justify"> Plataforma web voltada ao ensino à distancia para a gestão e oferta de conhecimento, dando suporte as mais diversas arquiteturas de aprendizagem. Alinhado com os objetivos estratégicos a serem alcançados por cada organização que possa ser atendida como cliente. </p>
+<p align="justify"> Plataforma web voltada ao ensino à distancia para a gestão e oferta de conhecimento, dando suporte as mais diversas arquiteturas de aprendizagem. Alinhado com os objetivos estratégicos a serem alcançados por cada organização que possa ser atendida como cliente.</p>
 
 
 --------------------------------------------------------------------------------------------------------------------
