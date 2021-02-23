@@ -10,8 +10,8 @@
 --------------------------------------------------------------------------------------------------------------------
 ## 	:handshake: Equipe
 
-[<img src="https://github.com/developersapi/LMSApp/blob/main/lucas.jpg" width=115 > <br> <sub> @Lucas <sub> PO </sub>](https://github.com/lucassilva676)| [<img src="https://github.com/developersapi/LMSApp/blob/main/ricardofoto.jpg" width=120 > <br> <sub> @Ricardo de Paiva <sub> SM </sub>](https://github.com/RicardoSousaPaiva) | [<img src="https://github.com/developersapi/LMSApp/blob/main/ana.jpeg" width=115 > <br> <sub> @Ana Carolina <sub> Dev </sub>](https://github.com/AnnaCMendes) | [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=115 > <br> <sub> @Pedro <sub> Dev </sub>](https://github.com/PedroSilva201)
- | :---: |:---:|:---:|:---:|
+[<img src="https://github.com/developersapi/LMSApp/blob/main/lucas.jpg" width=115 > <br> <sub> @Lucas <sub> PO </sub>](https://github.com/lucassilva676)| [<img src="https://github.com/developersapi/LMSApp/blob/main/ricardofoto.jpg" width=120 > <br> <sub> @Ricardo de Paiva <sub> SM </sub>](https://github.com/RicardoSousaPaiva) | [<img src="https://github.com/developersapi/LMSApp/blob/main/ana.jpeg" width=115 > <br> <sub> @Ana Carolina <sub> Dev </sub>](https://github.com/AnnaCMendes) | [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=115 > <br> <sub> @Pedro <sub> Dev </sub>](https://github.com/PedroSilva201) | [<img src="https://github.com/developersapi/LMSApp/blob/main/rafael.jpeg" width=115 > <br> <sub> @Rafael </sub>](https://github.com/rafaeldossper)
+ | :---: |:---:|:---:|:---:|:---:|
 
 --------------------------------------------------------------------------------------------------------------------
 
