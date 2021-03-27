@@ -1,5 +1,4 @@
-
-## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/nEduc.gif) </h1>
+![Alt Text](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/nEduc.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 ## :microscope: O PROJETO: 
