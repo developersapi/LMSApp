@@ -48,6 +48,8 @@
 
 ## :rocket: Tecnologias:
 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/tecnologia.png) </h1> 
+
 --------------------------------------------------------------------------------------------------------------------
 
 ## :gear: Programa funcionando:
