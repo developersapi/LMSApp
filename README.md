@@ -23,6 +23,7 @@
 ## :bookmark: **_Backlog_**
 
 ## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/STORY.png) </h1>
+## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/backlog%20total%20nEDUC.pdf) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
 
