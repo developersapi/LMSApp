@@ -66,6 +66,9 @@
 --------------------------------------------------------------------------------------------------------------------
 
 ## :gear: Programa funcionando:
+### <h1 align="center"> Acessando a página Index </h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/GIFs/ApresentacaoIndexparagif.gif) </h1> 
+### <h1 align="center"> Fazendo cadastro no Banco de dados</h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/GIFs/CadastroParagif.gif) </h1> 
+### <h1 align="center"> Fazendo login autenticado no Banco de Dados</h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/GIFs/LoginParaGif.gif) </h1> 
