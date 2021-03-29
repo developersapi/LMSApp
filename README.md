@@ -16,7 +16,7 @@
 
 ## :hourglass_flowing_sand: **_Etapas de desenvolvimento em cards:_**
 
-## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/sprint%20card%201%20escuro.png) </h1> 
+## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%201%20escuro.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
