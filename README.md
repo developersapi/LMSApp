@@ -26,6 +26,10 @@
 ## <h1 align="center"> [<img src="https://github.com/developersapi/LMSApp/blob/main/backlogimg.png"> <br> <sub>🔎VER BACKLOG TOTAL📅</sub>](https://drive.google.com/file/d/1jnB04Cl06XppKSc_bKxE36pSUcaZdv74/view?usp=sharing) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
+## :bookmark: **_BURNDOWN_**
+## <h1 align="center"> [<img src=""> <br> <sub>🔎VER GRAFICO BURNDOWN📅</sub>](https://drive.google.com/file/d/1E76KZMa_ecLnBEtwmiz4o2-wbrpBwk1x/view?usp=sharing) </h1>
+
+--------------------------------------------------------------------------------------------------------------------
 
 ## :framed_picture: Wireframes
 
