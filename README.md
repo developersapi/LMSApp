@@ -26,6 +26,12 @@
 ## <h1 align="center"> [<img src="https://github.com/developersapi/LMSApp/blob/main/backlogimg.png"> <br> <sub>🔎VER BACKLOG TOTAL📅</sub>](https://drive.google.com/file/d/1jnB04Cl06XppKSc_bKxE36pSUcaZdv74/view?usp=sharing) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
+
+## :bookmark: **_User Stories_**
+
+## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/Backlog/STORY.png) </h1>
+
+--------------------------------------------------------------------------------------------------------------------
 ## :bookmark: **_BURNDOWN_**
 ## <h1 align="center"> [<img src="https://github.com/developersapi/LMSApp/blob/main/Backlog/BURNDOWN.PNG"> <br> <sub>🔎VER GRAFICO BURNDOWN📅</sub>](https://drive.google.com/file/d/1E76KZMa_ecLnBEtwmiz4o2-wbrpBwk1x/view?usp=sharing) </h1>
 
@@ -53,7 +59,7 @@
 
 ## :rocket: Tecnologias:
 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/tecnologia.png) </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/Backlog/STORY.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
