@@ -22,7 +22,6 @@
 
 ## :bookmark: **_Backlog_**
 
-## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/Backlog/STORY.png) </h1>
 ## <h1 align="center"> [<img src="https://github.com/developersapi/LMSApp/blob/main/backlogimg.png"> <br> <sub>🔎VER BACKLOG TOTAL📅</sub>](https://drive.google.com/file/d/1jnB04Cl06XppKSc_bKxE36pSUcaZdv74/view?usp=sharing) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
