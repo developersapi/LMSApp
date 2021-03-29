@@ -33,17 +33,17 @@
 
 ## :chart_with_upwards_trend: Diagrama de caso e uso:
 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/use%20case%20diagram.png) </h1>
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/use%20case%20diagram.png) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## :tea: Diagrama de Classes:
 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/Class%20Diagram%20nEDUC.jpeg) </h1>
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/Class%20Diagram%20nEDUC.jpeg) </h1>
 
 ## :tea: Diagrama de modelos de dados:
 
- ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/Diagrama%20Entidade%20Relacionamento.jpg) </h1> 
+ ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/Diagrama%20Entidade%20Relacionamento.jpg) </h1> 
  
 --------------------------------------------------------------------------------------------------------------------
 
