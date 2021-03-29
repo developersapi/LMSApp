@@ -27,7 +27,7 @@
 
 ## :framed_picture: Wireframes
 
-## <h1 align="center"> [<img src="https://github.com/developersapi/LMSApp/blob/main/GIFs/PrototipGif.gif">
+## <h1 align="center"><img src="https://github.com/developersapi/LMSApp/blob/main/GIFs/PrototipGif.gif">
 
 --------------------------------------------------------------------------------------------------------------------
 
