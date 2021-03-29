@@ -54,3 +54,6 @@
 --------------------------------------------------------------------------------------------------------------------
 
 ## :gear: Programa funcionando:
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/GIFs/ApresentacaoIndexparagif.gif) </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/GIFs/CadastroParagif.gif) </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/GIFs/LoginParaGif.gif) </h1> 
