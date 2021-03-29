@@ -1,4 +1,4 @@
- ![Alt Text](https://github.com/developersapi/LMSApp/blob/sprint1/core/static/images/artefatos/nEduc.gif)
+ ![Alt Text](https://github.com/developersapi/LMSApp/blob/main/GIFs/sprint%201.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 ## :microscope: O PROJETO: 
