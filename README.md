@@ -1,7 +1,6 @@
  ![Alt Text](https://github.com/developersapi/LMSApp/blob/main/GIFs/sprint%201.gif)
 
 --------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------
 ## :microscope: O PROJETO: 
 
 <p align="justify"> É uma plataforma web voltada ao ensino a distancia para a gestão e oferta de conhecimento, dando suporte as mais diversas arquiteturas de aprendizagem. Alinhado com os objetivos estratégicos a serem alcançados por cada organização que possa ser atendida como cliente.</p>
