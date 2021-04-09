@@ -9,7 +9,6 @@ from allauth import socialaccount
 urlpatterns=[
     path('', IndexView.as_view(), name='index'),
 
-
     #path('', SignupView.as_view(), name='signup'),
    #path('', LogoutView.as_view(), name='logout'),
 ]
