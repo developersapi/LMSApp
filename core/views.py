@@ -82,10 +82,6 @@ def logout_view(request):
 
 # Views da AGENDA:
 
-@login_required(login_url='signup')
-def index(request):
-    return HttpResponse('hello')
-
 def get_date(req_day):
     if req_day:
         year, month = (int(x) for x in req_day.split('-'))
