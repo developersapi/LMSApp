@@ -9,6 +9,7 @@ from django.views.generic import CreateView
 from .form import TeacherSignUpForm, StudentSignUpForm, EventForm, AddMemberForm
 from django.contrib.auth.forms import AuthenticationForm
 from .models import User
+
 # imports da AGENDA:
 from datetime import datetime, date
 from django.shortcuts import render, redirect
@@ -21,16 +22,17 @@ from django.shortcuts import get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.urls import reverse_lazy
-
-
 from .models import *
 from .utils import Calendar
-#from .forms import EventForm, AddMemberForm
+
+
+#Views da TELA INICIAL:
 
 class IndexView(TemplateView):
     template_name='index.html'
 
-#Views do User
+#Views USER:
+
 def register(request):
     return render(request, '../templates/register.html')
 
@@ -76,10 +78,10 @@ def logout_view(request):
     logout(request)
     return redirect('/')
 
-#class LoginView(TemplateView):
-#    template_name = 'login.html'
+
 
 # Views da AGENDA:
+
 @login_required(login_url='signup')
 def index(request):
     return HttpResponse('hello')
