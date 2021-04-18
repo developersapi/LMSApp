@@ -79,7 +79,6 @@ def logout_view(request):
     return redirect('/')
 
 
-
 # Views da AGENDA:
 
 def get_date(req_day):
