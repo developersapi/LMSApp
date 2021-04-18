@@ -14,8 +14,8 @@ urlpatterns=[
     path('login/', views.login_request, name='login'),
     path('logout/', views.logout_view, name='logout'),
 
-    #AGENDA
-    #path('index', views.index, name='index'),
+    #AGENDA:
+
     path('calendar', views.CalendarView.as_view(), name='calendar'),
     path('event/new/', views.create_event, name='event_new'),
     path('event/edit/<int:pk>/', views.EventEdit.as_view(), name='event_edit'),
