@@ -81,6 +81,14 @@ def logout_view(request):
     logout(request)
     return redirect('/')
 
+# Views da UPLOADS DE ARQUIVOS:
+
+class ArquivoCreate(CreateView):
+    model = arquivos
+    fields = ['data','arquivos']
+    template_name = "index.html"
+    success_url = reverse_lazy('index.html')
+
 
 # Views da AGENDA:
 
