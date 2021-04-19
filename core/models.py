@@ -18,6 +18,12 @@ class Student(models.Model):
     user = models.OneToOneField(User, on_delete = models.CASCADE, primary_key = True)
     phone_number = models.CharField(max_length=20)
     designation = models.CharField(max_length=20)
+    
+#UPLOADS    
+    
+    class arquivos(models.Model):
+    upload = models.FileField(upload_to='uploads')
+    data = models.DateField()
 
 # AGENDA
 
