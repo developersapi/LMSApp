@@ -92,7 +92,7 @@
 
 ## :bookmark: **_Backlog total_**
 
-## <h1 align="center"> [<img src="https://github.com/developersapi/LMSApp/blob/main/backlog%20total%20nEDUC09.04.pdf"> 
+## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/backlog%20total%20nEDUC09.04.pdf")
 
 --------------------------------------------------------------------------------------------------------------------
 
