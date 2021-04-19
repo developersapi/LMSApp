@@ -31,6 +31,9 @@ from .utils import Calendar
 class IndexView(TemplateView):
     template_name='index.html'
 
+class Index2View(TemplateView):
+    template_name = 'index2.html'
+
 #Views USER:
 
 def register(request):
@@ -44,7 +47,7 @@ class teacher_register(CreateView):
     def form_valid(self, form):
         user = form.save()
         login(self.request, user)
-        return redirect('/')
+        return redirect('login')
 
 class student_register(CreateView):
     model = User
@@ -54,7 +57,7 @@ class student_register(CreateView):
     def form_valid(self, form):
         user = form.save()
         login(self.request, user)
-        return redirect('/')
+        return redirect('login')
 
 
 def login_request(request):
@@ -66,7 +69,7 @@ def login_request(request):
             user = authenticate(username=username, password=password)
             if user is not None :
                 login(request,user)
-                return redirect('/')
+                return redirect('index2')
             else:
                 messages.error(request,"Invalid username or password")
         else:

@@ -1,6 +1,6 @@
 from django.urls import path
 from django.contrib.auth import views as auth_views
-from .views import IndexView
+from .views import IndexView, Index2View
 from .import views
 
 
@@ -13,7 +13,7 @@ urlpatterns=[
     path('student_register/', views.student_register.as_view(), name='student_register'),
     path('login/', views.login_request, name='login'),
     path('logout/', views.logout_view, name='logout'),
-
+    path('index2', Index2View.as_view(), name='index2'),
     #AGENDA:
 
     path('calendar', views.CalendarView.as_view(), name='calendar'),
