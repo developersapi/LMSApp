@@ -86,7 +86,7 @@
 ## :hourglass_flowing_sand: **_Etapas de desenvolvimento em cards:_**
 
 ## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%201%20escuro.png) </h1> 
-## <h2 align="center"> ![]() </h2> 
+## <h2 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%202%20new.png) </h2> 
 
 --------------------------------------------------------------------------------------------------------------------
 
