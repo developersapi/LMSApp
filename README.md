@@ -1,4 +1,4 @@
-<p><img src="https://img.shields.io/badge/Sprint%202-Em%20andamento-orange?style=for-the-badge&logo=appveyor"></p>
+<p><img src="https://img.shields.io/badge/Sprint%202-Concluído-green?style=for-the-badge&logo=appveyor"></p>
 <p>
 <img src="https://img.shields.io/badge/Tecnologia-PyCharm-9cf">
 <img src="https://img.shields.io/badge/Tecnologia-Django-9cf">
