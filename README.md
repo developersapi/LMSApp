@@ -35,7 +35,7 @@ que a entrega esteja, cada vez mais, de acordo com as espectativas do cliente.</
 <p align="justify"> As partes mais trabalhosas e que precisaram de mais tempo foram as telas de cadastrar e alterar dados de usuários, pois, como precisam está integradas ao Banco de Dados,  necessitam de todos o trabalho do back end relacionados aps campos necessários e de várias validações para enviar dados efetivos ao Banco. 
 A criação e customização das telas do front end, para que o cliente se interesse pelo produto criado, é um desafio que exige muita criatividade, tempo e cuidado com as escolhas.</p>
 
-## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%202%20new.png) </h1> 
+## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint2/sprint%202.gif) </h1> 
 --------------------------------------------------------------------------------------------------------------------
 
 
