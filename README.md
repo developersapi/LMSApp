@@ -83,3 +83,6 @@ A criação de Wireframes, para que o cliente se interesse pelo produto criado, 
 ### <h1 align="center"> 3. Agenda para organização das tarefas</h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/GIFs/Agenda_SP2.gif) </h1> 
 
+--------------------------------------------------------------------------------------------------------------------
+
+##OBS: Conforme alinhado com o Professor JOSÉ WALMIR GONÇALVES DUQUE, fizemos modificações em 27/04/2021.
