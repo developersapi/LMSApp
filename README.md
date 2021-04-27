@@ -13,7 +13,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 <p><h1>Perseverance 📖🖥️ :</h1></p>
-<p>Seja bem-vindo a Sprint 2 </p>
+## <h1 align="center">Seja bem-vindo a Sprint 2 </p> </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 ## :microscope: O PROJETO: 
@@ -32,7 +32,7 @@ com o conteúdo adquirido. Assim, conseguimos enxergar a evolução do nosso pro
 que a entrega esteja, cada vez mais, de acordo com as espectativas do cliente.</p>
 
 ## Quais são as partes mais trabalhosas? 
-<p align="justify">>As partes mais trabalhosas e que precisaram de mais tempo são as telas de cadastrar e alterar dados de usuários, pois, como precisam está integradas ao Banco de Dados,  necessitam de todos os campos necessários e de várias validações para enviar dados persistentes ao Banco. 
+<p align="justify"> As partes mais trabalhosas e que precisaram de mais tempo são as telas de cadastrar e alterar dados de usuários, pois, como precisam está integradas ao Banco de Dados,  necessitam de todos os campos necessários e de várias validações para enviar dados persistentes ao Banco. 
 A criação das telas do front end, para que o cliente se interesse pelo produto criado, é um desafio que exige muita criatividade e cuidado com as escolhas.</p>
 
 ## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%202%20new.png) </h1> 
