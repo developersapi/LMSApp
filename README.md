@@ -62,7 +62,7 @@
                      <tr>
                             <td>Segunda Entrega</td>
                             <td>Tela de usuário e Calendário de Eventos </td>
-                      ## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint2/sprint%202.gif) </h1> 
+                    
 
                             <td>29/03 à 18/04</td>
                             
