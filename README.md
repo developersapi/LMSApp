@@ -1,5 +1,5 @@
 
-<h1 align="center"> <p><img src="https://img.shields.io/badge/Menu%20Principal-Projeto%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></p> </h1> 
+<p><img src="https://img.shields.io/badge/Menu%20Principal-Projeto%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></p>
 <p>
 <img src="https://img.shields.io/badge/Tecnologia-PyCharm-9cf">
 <img src="https://img.shields.io/badge/Tecnologia-Django-9cf">
@@ -27,18 +27,13 @@
 
 
 --------------------------------------------------------------------------------------------------------------------
-## :dart: Sprint Atual:
-![Alt Text](https://github.com/developersapi/LMSApp/blob/sprint2/sprint%202.gif)
-
-
---------------------------------------------------------------------------------------------------------------------
 ## 	:handshake: Equipe
 
 [<img src="https://github.com/developersapi/LMSApp/blob/main/anna.jpeg" width=115 > <br> <sub> @Anna Carolina <sub> DEV </sub>](https://github.com/AnnaCMendes)| [<img src="https://github.com/developersapi/LMSApp/blob/main/lucas.jpg" width=120 > <br> <sub> @Lucas <sub> PO </sub>](https://github.com/lucassilva676) | [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=115 > <br> <sub> @Pedro <sub> DEV </sub>](https://github.com/PedroSilva201) | [<img src="https://github.com/developersapi/LMSApp/blob/main/rafael.jpg" width=115 > <br> <sub> @Rafael <sub> DEV </sub>](https://github.com/rafaeldossper)| [<img src="https://github.com/developersapi/LMSApp/blob/main/ricardofoto.jpg" width=115 > <br> <sub> @Ricardo <sub> SM </sub>](https://github.com/RicardoSousaPaiva) 
  | :---: |:---:|:---:|:---:|:---:|
 
 --------------------------------------------------------------------------------------------------------------------
-## 	🏬 Nossos Parceiros
+## 	🏬 Nossos Parciros
 
 <p align="justify">
                      ▶️  <a href="https://www.ness.com.br/index.php">NESS</a>.
@@ -66,11 +61,9 @@
                      </tr>
                      <tr>
                             <td>Segunda Entrega</td>
-                            <td>Tela de usuário e Calendário de Eventos </td>
-                    
-
+                            <td>Tela de usuário, Upload de arquivos e Calendário de Eventos </td>
                             <td>29/03 à 18/04</td>
-                            
+                            <td><a href="https://github.com/developersapi/LMSApp/tree/sprint2">Sprint 2</td>
                      </tr>
                      <tr>
                             <td>Terceira Entrega</td>
@@ -93,7 +86,7 @@
 ## :hourglass_flowing_sand: **_Etapas de desenvolvimento em cards:_**
 
 ## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%201%20escuro.png) </h1> 
-
+## <h2 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%202%20new.png) </h2> 
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -132,3 +125,5 @@
 ## :tea: Diagrama de modelos de dados:
 
  ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/Diagrama%20Entidade%20Relacionamento.jpg) </h1> 
+
+ 
