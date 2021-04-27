@@ -1,5 +1,5 @@
 
-<p><img src="https://img.shields.io/badge/Menu%20Principal-Projeto%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></p>
+<h1 align="center"> <p><img src="https://img.shields.io/badge/Menu%20Principal-Projeto%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></p> </h1> 
 <p>
 <img src="https://img.shields.io/badge/Tecnologia-PyCharm-9cf">
 <img src="https://img.shields.io/badge/Tecnologia-Django-9cf">
