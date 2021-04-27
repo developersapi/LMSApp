@@ -85,4 +85,4 @@ A criação e customização das telas do front end, para que o cliente se inter
 
 --------------------------------------------------------------------------------------------------------------------
 
-##OBS: Conforme alinhado com o Professor JOSÉ WALMIR GONÇALVES DUQUE, fizemos modificações em 27/04/2021.
+## OBS: Conforme alinhado com o Professor JOSÉ WALMIR GONÇALVES DUQUE, fizemos modificações em 27/04/2021.
