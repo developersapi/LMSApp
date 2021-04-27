@@ -23,7 +23,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 ## O que entregamos ✅
-<p align="justify">Realizamos a entrega, que dá continuidade a Sprint 1. Nessa entrega, à prioridade ficou direcionada, em criar e melhorar a parte visual das telas dos usuários Professor e aluno, os gruds do professor e aluno, como também,
+<p align="justify">Realizamos a entrega, que dá continuidade a Sprint 1. A prioridade ficou direcionada em criar e melhorar a parte visual das telas dos usuários Professor e aluno, os gruds do professor e aluno, como também,
 realizar a implementação de um calendário-agenda de eventos, onde todos os usuários podem se organizar mediante atividades cadastradas.</p>
 
 ## Por que fizemos essa escolha? 
