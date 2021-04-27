@@ -125,5 +125,9 @@
 ## :tea: Diagrama de modelos de dados:
 
  ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/Diagrama%20Entidade%20Relacionamento.jpg) </h1> 
+ 
+--------------------------------------------------------------------------------------------------------------------
+## OBS: Conforme alinhado com o Professor JOSÉ WALMIR GONÇALVES DUQUE, fizemos modificações em 27/04/2021.
+
 
  
