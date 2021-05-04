@@ -1,0 +1,14 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+<div class="clearfix">
+    <span class="left m-2" style="font-size: 20px;">Olá {{ request.user }}! Vamos organizar nosso dia? </span>
+    <a class="btn btn-info right" href="{% url 'logout' %}"> Sair </a>
+	<a class="btn btn-info right mr-2" href="{% url 'calendar' %}?{{ next_month }} "> Próximo mês >> </a>
+    <a class="btn btn-info right mr-2" href="{% url 'calendar' %}?{{ prev_month }}"> << Mês anterior </a>
+    <a class="btn btn-info right mr-2" href="{% url 'event_new' %}"> + Nova tarefa </a>
+</div>
+<div style="color: blueviolet;">
+    {{ calendar }}
+</div>
+{% endblock %}
