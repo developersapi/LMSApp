@@ -74,7 +74,7 @@
                       <tr>
                             <td>Quarta Entrega</td>
                             <td>Em Construção</td>
-                            <td>07/06 à 11/06</td>
+                            <td>17/05 à 05/06</td>
                             <td><a href="">Sprint 4</td>
                      </tr>
               </tbody>
