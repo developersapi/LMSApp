@@ -1,4 +1,3 @@
-
 <p><img src="https://img.shields.io/badge/Menu%20Principal-Projeto%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></p>
 <p>
 <img src="https://img.shields.io/badge/Tecnologia-PyCharm-9cf">
@@ -67,14 +66,14 @@
                      </tr>
                      <tr>
                             <td>Terceira Entrega</td>
-                            <td>Em Construção</td>
+                            <td>Cruds de Cadastro de Certificado e Produção de Certificado.</td>
                             <td>26/04 à 16/05</td>
-                            <td><a href="">Sprint 3</a></td>
+                            <td><a href="https://github.com/developersapi/LMSApp/tree/sprint3">Sprint 3</a></td>
                      </tr>
                       <tr>
                             <td>Quarta Entrega</td>
                             <td>Em Construção</td>
-                            <td>17/05 à 05/06</td>
+                            <td>07/06 à 11/06</td>
                             <td><a href="">Sprint 4</td>
                      </tr>
               </tbody>
@@ -85,13 +84,65 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :hourglass_flowing_sand: **_Etapas de desenvolvimento em cards:_**
 
+<section id="cards">
+       <h3><i>Cards</i> das <i>sprints</i> (entregas) do sistema</h3>
+       <h4>Primeira entrega :clock12:</h4>
+       <p align="justify">Os administradores, alunos e professores, já conseguem vizualizar como o sistema será. Realizamos as prototipações das telas, assim permitindo imaginar como será o nosso projeto. Realizamos a entrega da area de login do projeto, permitindo com que seja realizado os cadastros no nosso sistema. 
+O mesmo já possuí o banco de dados, o que perimite que possamos incluir, excluir dados e monitorar o sistema de cadastros. Por fim, criamos também a tela inicial da nossa página, cheia de stilo e design, e de facíl manipulação dos usuários. </p>
+
 ## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%201%20escuro.png) </h1> 
-## <h2 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint2/sprint%20card%202.png) </h2> 
+
+
+<h4>Segunda entrega :clock4:</h4>
+       <p align="justify">O projeto pode ser basicamente separado em três partes: Tela do usuário, Melhorias de Interface e Calendário de Eventos.
+Nessa parte da entrega, focamos em melhorar a nossa Interface, assim, aperfeiçoando o Design e Estilo já propostos na primeira entrega a fim de que cada vez mais, haja satisfação de nosos usuários. Depois, realizamos a criação dos perfis personalizados, para que quando os alunos e professores, entrassem no ambiente, se sentissem mais confortaveis, podendo vizualizar o seu perfil de acordo com o tipo de vizualização requerida. 
+Melhoramos o nosso Banco de Dados, para que os mesmos fiquem organizados e divididos em seus determinados grupos.
+Por fim, realizamos a entrega da agenda, para uma melhor organização de tarefas, dentro do nosso sistema. </p>
+
+
+## <h2 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%202%20new.png) </h2> 
+
+
+ <h4>Terceira entrega :clock8:</h4>
+       <p align="justify">O projeto pode ser basicamente separado em duas partes partes:  Cruds de Cadastro de Certificado e Produção de Certificado.
+ Nessa parte da entrega resolvemos realizar os Cruds de Cadastro de Certificado o que pode ser resumido; 
+ CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
+
+✅ C: Create (criar) - criar um novo registro
+
+👁 R: Read (ler) - ler (exibir) as informações de um registro
+
+♻️ U: Update (atualizar) - atualizar os dados do registro
+
+❌ D: Delete (apagar) - apagar um registro 
+
+Depois, trabalhamos com a parte de Produção de Certificado: 
+
+- Os alunos conseguem emitir o seu cetificado, podendo realizar o dowload do mesmo, imprimir e até mesmo, salvar o mesmo em PDF.</p>
+       
+       
+## <h3 align="center"> ![]() </h3>     
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## :bookmark: **_Backlog total_**
-## <h1 align="center"> [<img src="https://github.com/developersapi/LMSApp/blob/main/backlogimg.png"> <br> <sub>🔎VER BACKLOG TOTAL📅</sub>](https://drive.google.com/file/d/1jnB04Cl06XppKSc_bKxE36pSUcaZdv74/view?usp=sharing) </h1>
+
+<h1><i>Backlog</i> das <i>sprints</i> (entregas) do sistema</h1>
+
+
+<h4>Primeira entrega 📇</h4>
+## <h1 align="center"> <img src="">
+ 
+ 
+<h4>Segunda entrega 📇 </h4>
+## <h2 align="center"> <img src="">
+ 
+
+<h4>Terceira entrega 📇</h4> 
+## <h3 align="center"> <img src="">
+
+<h4>Quarta entrega 📇</h4> 
+## <h4 align="center"> <img src="">
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -103,6 +154,9 @@
 <p align="justify">
                      📈 Para ver o BURNDOWN da Sprint 2 , clique <a href="https://github.com/developersapi/LMSApp/tree/sprint2">aqui</a>.
               </p>
+ <p align="justify">
+                     📈 Para ver o BURNDOWN da Sprint 3 , clique <a href="https://github.com/developersapi/LMSApp/tree/sprint3">aqui</a>.
+              </p>             
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -125,9 +179,13 @@
 ## :tea: Diagrama de modelos de dados:
 
  ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/Diagrama%20Entidade%20Relacionamento.jpg) </h1> 
+
  
---------------------------------------------------------------------------------------------------------------------
-## OBS: Conforme alinhado com o Professor JOSÉ WALMIR GONÇALVES DUQUE, fizemos modificações em 27/04/2021.
+
+
+
+
+
 
 
  
