@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>Repositório de Arquivos</h2>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+      <br><br>
+    <input class="btn btn-primary btn-sm" type="file" name="document">
+    <button type="submit" class="btn btn-danger btn-sm">Salvar seus Arquivos</button>
+  </form>
+  {% if url %}
+    <p>Salvo em: <a href="{{ url }}">{{ url }}</a></p>
+  {% endif %}
+{% endblock %}

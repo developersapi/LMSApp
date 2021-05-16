@@ -3,20 +3,20 @@
 {% block content %}
 
   {% block content_header %}
-    <h2>Books</h2>
+    <h2>nBooks</h2>
     <p>
-      <a href="{% url 'upload_book' %}" class="btn btn-primary">Upload book</a>
+      <a href="{% url 'upload_book' %}" class="btn btn-primary">Enviar Livro</a>
     </p>
   {% endblock %}
 
   <table class="table mb-0">
     <thead>
       <tr>
-        <th>Cover</th>
-        <th>Title</th>
-        <th>Author</th>
-        <th>Download</th>
-        <th>Delete</th>
+        <th>Capa</th>
+        <th>Título</th>
+        <th>Autor</th>
+        <th>Baixar</th>
+        <th>Deletar</th>
       </tr>
     </thead>
     <tbody>
@@ -33,7 +33,7 @@
           <td>{{ book.author }}</td>
           <td>
             <a href="{{ book.pdf.url }}" class="btn btn-primary btn-sm" target="_blank">
-              Download PDF
+              Baixar PDF
             </a>
           </td>
           <td>
