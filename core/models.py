@@ -19,6 +19,9 @@ class Student(models.Model):
     phone_number = models.CharField(max_length=20)
     designation = models.CharField(max_length=20)
 
+class course(models.Model):
+    name = models.CharField(max_length=20)
+
 # AGENDA
 
 class Event(models.Model):

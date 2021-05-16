@@ -1,0 +1,23 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+<script>
+function funcao1()
+{
+alert("Curso cadastrado com sucesso!");
+}
+</script>
+<h3> CURSOS </h3>
+ <p class= 'lead'>
+  Por favor, digite o curso que deseja cadastrar!
+ </p>
+
+ <br>
+ <form action='' method='POST'>
+    {% csrf_token %} 
+    {{form.as_p}}
+    <button type='submit' class= "main-btn wow fadeInUp center mr-2"> Cadatrar curso </button>
+    <div>
+    
+    </div>
+{% endblock %}

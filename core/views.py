@@ -1,9 +1,9 @@
-from django.shortcuts import render
 from django.views.generic import TemplateView
+from django.views.generic.edit import CreateView
 from django.contrib.auth import views as auth_views
 from django.urls import path
 from django.contrib.auth import login, logout, authenticate
-from django.shortcuts import redirect, render
+from django.shortcuts import redirect
 from django.contrib import messages
 from django.views.generic import CreateView
 from .form import TeacherSignUpForm, StudentSignUpForm, EventForm, AddMemberForm
@@ -33,6 +33,14 @@ class IndexView(TemplateView):
 
 class Index2View(TemplateView):
     template_name = 'index2.html'
+
+class CourseCreate(CreateView):
+    model= course
+    fields= [ 'name']
+    template_name= 'curso.html'
+    success_url= reverse_lazy('course')
+    
+
 
 #Views USER:
 
