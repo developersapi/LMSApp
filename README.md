@@ -72,8 +72,8 @@
 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respcurso.mp4) </h1> 
  
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex.mov) </h1> 
+### <h3 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex.mov) </h2> 
 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex2.mp4) </h1> 
+### <h3 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex2.mp4) </h3> 
 
-## <h1 align="center"> ![]https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif) </h1> 
+## <h4 align="center"> ![]https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif) </h4> 
