@@ -14,6 +14,9 @@ urlpatterns=[
     path('login/', views.login_request, name='login'),
     path('logout/', views.logout_view, name='logout'),
     path('index2', Index2View.as_view(), name='index2'),
+    
+    
+
     #AGENDA:
 
     path('calendar', views.CalendarView.as_view(), name='calendar'),

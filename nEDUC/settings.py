@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'nEDUC',
+    'certificado',
 
     'core',
     'crispy_forms',
