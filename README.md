@@ -122,7 +122,7 @@ Depois, trabalhamos com a parte de Produção de Certificado:
 - Os alunos conseguem emitir o seu cetificado, podendo realizar o dowload do mesmo, imprimir e até mesmo, salvar o mesmo em PDF.</p>
        
        
-## <h3 align="center"> ![]() </h3>     
+## <h3 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/sprint_card_3.png) </h3>     
 
 --------------------------------------------------------------------------------------------------------------------
 
