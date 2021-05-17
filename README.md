@@ -69,11 +69,13 @@
 
 
 ## :gear: Programa funcionando:
-
+### <h1 align="center"> 1. Mostrando Sprint.  </h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respcurso.mp4) </h1> 
- 
-### <h3 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex.mov) </h2> 
+### <h1 align="center"> 2. Mostrando Sprint.  </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex.mov) </h1> 
+### <h1 align="center"> 3. Mostrando Sprint.  </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex2.mp4) 
+### <h1 align="center"> 4. Mostrando Sprint.  </h1> 
+</h1> ### <h1 align="center"> 1. Logando com perfis personalizados: professor e Aluno.  </h1> 
 
-### <h3 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex2.mp4) </h3> 
-
-## <h4 align="center"> ![]https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif) </h4> 
+## <h1 align="center"> ![]https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif) </h41 
