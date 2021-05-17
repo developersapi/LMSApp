@@ -57,27 +57,23 @@
 
 ## :bookmark: **_Backlog_**
 
-## <h1 align="center"> ![]() </h1>
+## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/Sprint3.jpeg) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
 ## :bookmark: **_BURNDOWN_**
 
-## <h1 align="center"> <img src=""> 
-
---------------------------------------------------------------------------------------------------------------------
-
-## :chart_with_upwards_trend: Diagrama de Banco de Dados :
-
-### <h1 align="center"> ![]() </h1>
+## <h1 align="center"> <img src="https://github.com/developersapi/LMSApp/blob/sprint3/Gr%C3%A1ficoBurndownSprint3.png"> 
 
 --------------------------------------------------------------------------------------------------------------------
 
 
 
 ## :gear: Programa funcionando:
-### <h1 align="center"> 1.   </h1> 
-### <h1 align="center"> ![]() </h1> 
-### <h1 align="center"> 2. </h1> 
-### <h1 align="center"> ![]() </h1> 
-### <h1 align="center"> 3. </h1> 
-### <h1 align="center"> ![]() </h1> 
+
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respcurso.mp4) </h1> 
+ 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex.mov) </h1> 
+
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex2.mp4) </h1> 
+
+## <h1 align="center"> ![]https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif) </h1> 
