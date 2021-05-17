@@ -104,8 +104,9 @@ Por fim, realizamos a entrega da agenda, para uma melhor organização de tarefa
 
 
  <h4>Terceira entrega :clock8:</h4>
-       <p align="justify">O projeto pode ser basicamente separado em duas partes partes:  Cruds de Cadastro de Certificado e Produção de Certificado.
- Nessa parte da entrega resolvemos realizar os Cruds de Cadastro de Certificado o que pode ser resumido; 
+       <p align="justify">O projeto pode ser basicamente separado em quatro partes partes:  Uploads de arquivos, emisaao de certificado, crud dos cursos e responsividade das páginas.
+Os usuários conseguem inserir dados na plataforma e também conseguem retirar dados que podem ser baixados da mesma. Conseguem emitir seus certificados e consseguem ajustar suas telas elém dos cruds que se referem à:
+ 
  CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
 
 ✅ C: Create (criar) - criar um novo registro
