@@ -104,8 +104,8 @@ Por fim, realizamos a entrega da agenda, para uma melhor organização de tarefa
 
 
  <h4>Terceira entrega :clock8:</h4>
-       <p align="justify">O projeto pode ser basicamente separado em quatro partes partes:  Uploads de arquivos, emisaao de certificado, crud dos cursos e responsividade das páginas.
-Os usuários conseguem inserir dados na plataforma e também conseguem retirar dados que podem ser baixados da mesma. Conseguem emitir seus certificados e consseguem ajustar suas telas elém dos cruds que se referem à:
+       <p align="justify">O projeto pode ser basicamente separado em quatro partes partes:  Uploads de arquivos, emissão de certificado, crud dos cursos e responsividade das páginas.
+Os usuários conseguem inserir dados na plataforma e também conseguem retirar dados que podem ser baixados da mesma. Conseguem emitir seus certificados, ajustar as telas de acordo com o tamanho do monitor do dispositivo que estiver usando. Além dos cruds que se referem à:
  
  CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
 
@@ -117,7 +117,7 @@ Os usuários conseguem inserir dados na plataforma e também conseguem retirar d
 
 ❌ D: Delete (apagar) - apagar um registro 
 
-Depois, trabalhamos com a parte de Produção de Certificado: 
+Depois, para a próxima sprint. Será aprimorado o trabalho de Produção de Certificados: 
 
 - Os alunos conseguem emitir o seu cetificado, podendo realizar o dowload do mesmo, imprimir e até mesmo, salvar o mesmo em PDF.</p>
        
