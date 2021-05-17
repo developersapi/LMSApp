@@ -69,17 +69,17 @@
 
 
 ## :gear: Programa funcionando:
-### <h1 align="center"> 1. Mostrando Sprint.  </h1> 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respcurso.gif) </h1> 
-### <h1 align="center"> 2. Mostrando Sprint.  </h1> 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex2.gif) </h1> 
-### <h1 align="center"> 3. Mostrando Sprint.  </h1> 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/responsividade%20(1)%20-%20Copia.gif) </h1>
-### <h1 align="center"> 4. Mostrando Sprint.  </h1>
+### <h1 align="center"> 1. Upload de arquivos:  </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif) </h1> 
+### <h1 align="center"> 2. Cadastro de cursos: </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/course.gif) </h1> 
+### <h1 align="center"> 3. Responsividade da página INDEX:  </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex.gif) </h1>
+### <h1 align="center"> 4. Responsividade da página do USUÁRIO LOGADO:  </h1>
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respindex2.gif) </h1>
+### <h1 align="center"> 5. Responsividade da página CADASTRO DE CURSOS:  </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/respcurso.gif)</h1>
+ ### <h1 align="center"> 6. Responsividade da página UPLOAD DE ARQUIVOS:  </h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/responsividade%20(1).gif) </h1>
-### <h1 align="center"> 5. Mostrando Sprint.  </h1> 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/telaupload%20-%20Copia.gif)< /h1>
- ### <h1 align="center"> 6. Mostrando Sprint.  </h1> 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif) </h1>
  
  
