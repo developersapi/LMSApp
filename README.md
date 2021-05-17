@@ -23,7 +23,8 @@
 
 --------------------------------------------------------------------------------------------------------------------
 ## O que entregamos ✅
-<p align="justify">O projeto pode ser basicamente separado em duas partes partes:Cruds de Cadastro de Certificado e Produção de Certificado.</p>
+<p align="justify">O projeto pode ser basicamente separado em duas partes partes: É uploads de arquivos, emissão de certificado, crud dos cursos e responsividade das páginas
+</p>
 
 ## Por que fizemos essa escolha? 
 <p align="justify">Realizamos essa escolha, juntamente com o cliente que estava de acordo com a escolha da equipe a fim de que possamos dar andamento na area do aluno, complementando o nosso trabalho anterior e mostrando todo estilo e sofisticação da nossa plataforma.</p>
