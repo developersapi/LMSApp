@@ -24,14 +24,14 @@
 
 --------------------------------------------------------------------------------------------------------------------
 ## O que entregamos ✅
-<p align="justify">O projeto pode ser basicamente separado em duas partes partes: É uploads de arquivos, emissão de certificado, crud dos cursos e responsividade das páginas
+<p align="justify">O projeto pode ser basicamente separado em duas partes partes: uploads de arquivos, emissão de certificado, crud dos cursos e responsividade das páginas.
 </p>
 
 ## Por que fizemos essa escolha? 
-<p align="justify">Realizamos essa escolha, juntamente com o cliente que estava de acordo com a escolha da equipe a fim de que possamos dar andamento na area do aluno, complementando o nosso trabalho anterior e mostrando todo estilo e sofisticação da nossa plataforma.</p>
+<p align="justify">Realizamos essa escolha, juntamente com o cliente que estava de acordo com a escolha da equipe a fim de que possamos dar andamento na área do usuário (Professor- Aluno) , complementando o nosso trabalho anterior e mostrando todo estilo e sofisticação da nossa plataforma.</p>
 
 ## Quais são as partes mais trabalhosas? 
-<p align="justify">A parte mais trabalhosa e que precisa de mais tempo e habilidade, é a criação de CRUD, que é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:, pois, como já estarão integradas ao back-end precisarão de todos os campos necessários e de várias validações para enviar dados persistentes ao banco de dados. </p>
+<p align="justify">A parte mais trabalhosa e que precisa de mais tempo e habilidade, é a criação de CRUD, que é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:, pois, como já estarão integradas ao back-end precisarão de todos os campos necessários e de várias validações para enviar dados persistentes ao banco de dados. Nos certificados, a parte do front end será implementada na próxima sprint com aprimoramentos da interface para o cliente. Nessa sprint foi entregue apenas a geração dos certificados pelo sistema no back end. Sem grandes aperfeiçoamentos. </p>
 
 ## <h1 align="center"> ![]() </h1> 
 --------------------------------------------------------------------------------------------------------------------
