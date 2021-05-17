@@ -100,7 +100,7 @@ Melhoramos o nosso Banco de Dados, para que os mesmos fiquem organizados e divid
 Por fim, realizamos a entrega da agenda, para uma melhor organização de tarefas, dentro do nosso sistema. </p>
 
 
-## <h2 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%202%20new.png) </h2> 
+## <h2 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint2/sprint%20card%202.png) </h2> 
 
 
  <h4>Terceira entrega :clock8:</h4>
