@@ -119,7 +119,7 @@ Os usuários conseguem inserir dados na plataforma e também conseguem retirar d
 
 Depois, para a próxima sprint. Será aprimorado o trabalho de Produção de Certificados: 
 
-- Os alunos conseguem emitir o seu cetificado, podendo realizar o dowload do mesmo, imprimir e até mesmo, salvar o mesmo em PDF.</p>
+- Os alunos conseguem emitir o seu certificado, podendo realizar o download do mesmo, imprimir e até mesmo, salvar o mesmo em PDF.</p>
        
        
 ## <h3 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/sprint_card_3.png) </h3>     
