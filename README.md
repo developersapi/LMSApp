@@ -95,7 +95,7 @@ O mesmo já possuí o banco de dados, o que permite que possamos incluir e/ou ex
 
 <h4>Segunda entrega :clock4:</h4>
        <p align="justify">O projeto pode ser basicamente separado em três partes: Tela do usuário, Melhorias de Interface e Calendário de Eventos.
-Nessa parte da entrega, focamos em melhorar a nossa Interface, assim, aperfeiçoando o Design e Estilo já propostos na primeira entrega a fim de que cada vez mais, haja satisfação de nosos usuários. Depois, realizamos a criação dos perfis personalizados, para que quando os alunos e professores, entrassem no ambiente, se sentissem mais confortaveis, podendo vizualizar o seu perfil de acordo com o tipo de vizualização requerida. 
+Nessa parte da entrega, focamos em melhorar a nossa Interface, assim, aperfeiçoando o Design e Estilo já propostos na primeira entrega a fim de que cada vez mais, haja satisfação de nossos usuários. Depois, realizamos a criação dos perfis personalizados, para que quando os alunos e professores entrassem no ambiente, se sentissem mais confortáveis, podendo visualizar o seu perfil de acordo com o tipo de visualização requerida. 
 Melhoramos o nosso Banco de Dados, para que os mesmos fiquem organizados e divididos em seus determinados grupos.
 Por fim, realizamos a entrega da agenda, para uma melhor organização de tarefas, dentro do nosso sistema. </p>
 
