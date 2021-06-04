@@ -87,8 +87,8 @@
 <section id="cards">
        <h3><i>Cards</i> das <i>sprints</i> (entregas) do sistema</h3>
        <h4>Primeira entrega :clock12:</h4>
-       <p align="justify">Os administradores, alunos e professores, já conseguem vizualizar como o sistema será. Realizamos as prototipações das telas, assim permitindo imaginar como será o nosso projeto. Realizamos a entrega da area de login do projeto, permitindo com que seja realizado os cadastros no nosso sistema. 
-O mesmo já possuí o banco de dados, o que perimite que possamos incluir, excluir dados e monitorar o sistema de cadastros. Por fim, criamos também a tela inicial da nossa página, cheia de stilo e design, e de facíl manipulação dos usuários. </p>
+       <p align="justify">Os administradores, alunos e professores, já conseguem visualizar como o sistema será. Realizamos as prototipações das telas, assim permitindo imaginar como será o nosso projeto. Realizamos a entrega da área de login do projeto, permitindo com que sejam realizados os cadastros no nosso sistema. 
+O mesmo já possuí o banco de dados, o que permite que possamos incluir e/ou excluir os dados e monitorar o sistema de cadastros. Por fim, criamos também a tela inicial da nossa página, cheia de estilo e design, e de fácil manipulação dos usuários. </p>
 
 ## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/card/sprint%20card%201%20escuro.png) </h1> 
 
