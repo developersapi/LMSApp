@@ -1,4 +1,4 @@
-## <h1 align="center"> <p><img src="https://img.shields.io/badge/Sprint%202-Concluído-green?style=for-the-badge&logo=appveyor"></p> </h1> 
+<p><img src="https://img.shields.io/badge/Sprint%202-Concluído-green?style=for-the-badge&logo=appveyor"></p> </h1> 
 <p>
 <img src="https://img.shields.io/badge/Tecnologia-PyCharm-9cf">
 <img src="https://img.shields.io/badge/Tecnologia-Django-9cf">
