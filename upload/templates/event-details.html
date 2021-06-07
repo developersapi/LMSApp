@@ -1,0 +1,54 @@
+{% extends 'base2.html' %}
+{% load static %}
+
+{% block title %}
+Event Details
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="clearfix">
+            <a class="main-btn wow fadeInUp left" href="{% url 'calendar' %}"> Calendário </a>
+            <a class="main-btn wow fadeInUp right mr-2" href="{% url 'event_edit' event.pk %}"> Editar tarefa </a>
+        </div>
+        
+        <div class="clearfix">
+            <h3>TAREFA: {{ event.title }}</h3>
+            <p>From <span style="color: gray;">{{ event.start_time }}</span> To <span style="color: gray;">{{ event.end_time }}</span></p>
+            <hr>
+            <p>{{ event.description }}</p>
+        </div>
+        <hr>
+        <div class="clearfix">
+            <h4 class="left" > Pessoas para realizar a tarefa:</h4>
+            <a class="btn btn-success right" href="{% url 'add_eventmember' event.id %}"> Adicionar pessoas </a>
+        </div>
+        <table class="table table-bordered">
+            <thead>                  
+                <tr>
+                  <th style="width: 10px">#</th>
+                  <th>Nome</th>
+                  <th>Usuário</th>
+                  <th>Email</th>
+                  <th>Ação</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for member in eventmember %}
+                <tr role="row">
+                    <td>{{ forloop.counter }}</td>
+                    <td>{{ member.user.first_name }} {{ member.user.last_name }}</td>
+                    <td>{{ member.user.username }}</td>
+                    <td>{{ member.user.email }}</td>
+                    <td>
+                        <a class="btn btn-danger" href="{% url 'remove_event' member.id %}">Remover</a>
+                    </td>
+                </tr>
+                {% endfor %}
+              </tbody>
+        </table>
+    </div>
+    <div style="text-align:-moz-left">
+            <img src="{% static 'images/tarefaimg.svg' %}" alt="hero">
+    </div>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends 'base2.html' %}
+{% block content %}
+<div style="text-align:center">
+<span class="header-title wow fadeInUp"   style="font-size: 30px;">Olá {{ request.user }}! Vamos organizar nosso dia? </span>
+
+</div>
+
+<div class="clearfix">
+
+
+	<a class="main-btn wow fadeInUp right mr-2" href="{% url 'calendar' %}?{{ next_month }} "> Próximo mês >> </a>
+    <a class="main-btn wow fadeInUp right mr-2" href="{% url 'calendar' %}?{{ prev_month }}"> << Mês anterior </a>
+    <a class="main-btn wow fadeInUp right mr-2" href="{% url 'event_new' %}"> + Nova tarefa </a>
+</div>
+    <div class="form-group" >
+<div style="color: blueviolet;">
+    {{ calendar }}
+</div>
+    </div>
+
+{% endblock %}

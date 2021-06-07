@@ -1,0 +1,17 @@
+{% extends 'base2.html' %}
+{% load static %}
+
+{% block title %}
+Event Delete
+{% endblock %}
+
+{% block content %}
+
+    <div style="text-align:center">
+        <h1>Delete</h1>
+        <form action="" method="post">{% csrf_token %}
+            <p>Você tem certeza que deseja deletar esta pessoa da tarefa?</p>
+            <button class="btn btn-danger ml-2" type="submit">Confirmar</button>
+        </form>
+    </div><img src="{% static 'images/registerimg.svg' %}" alt="hero">
+{% endblock content %}

@@ -1,0 +1,107 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load widget_tweaks %}
+
+{% block content %}
+
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+    crossorigin="anonymous">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+    crossorigin="anonymous">
+    <title>Registration</title>
+</head>
+<body>
+<header class="header-area">
+        <div class="navbar-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <nav class="navbar navbar-expand-lg">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="{% static 'images/neduc-2.svg' %}" alt="Logo">
+                            </a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                            </button>
+
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+
+                            </div> <!-- navbar collapse -->
+
+                            <div class="navbar-btn d-none d-sm-inline-block">
+                                <a class="main-btn" data-scroll-nav="0" href= 'login'>Sair</a>
+                            </div>
+                        </nav> <!-- navbar -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- navbar area -->
+
+        <div id="home" class="header-hero bg_cover" style="background-image: url({% static 'images/banner-bg.svg' %})">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="header-hero-content text-center">
+
+                        </div> <!-- header hero content -->
+                    </div>
+                </div> <!-- row -->
+
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="header-hero-image text-center wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.4s">
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 mx-auto">
+              <div class="card">
+                <div class="card-header text-black">
+                  <h2>Cadastro</h2>
+                </div>
+                <div class="card-body">
+                    <form action="{% url 'student_register' %}" method="POST" novalidate>
+                      {% csrf_token %}
+                         {% for field in form.visible_fields %}
+                           <div class="form-group">
+                               {{ field.label_tag }}
+                                  {% render_field field class="form-control" %}
+                                    {% for error in field.errors %}
+                                      <span style="color:red">{{ error }}</span>
+                                    {% endfor %}
+                         {% endfor %}
+                             <input type="submit" value="Register" class="btn btn-block btn-primary">
+                           </div>
+                    </form>
+                 </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+        </div>
+
+                        </div> <!-- header hero image -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+            <div id="particles-1" class="particles"></div>
+        </div> <!-- header hero -->
+    </header>
+
+
+
+
+</body>
+</html>
+
+{% endblock %}
