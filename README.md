@@ -42,7 +42,7 @@ Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métric
 ## Quais são as partes mais trabalhosas? 
 <p align="justify"> Neste parte, sentimos dificuldades de trabalho com as pilulas de conhecimento, que consiste, em pequenos documentos e vídeos, para que os alunos tenham um extra na sua aprendizagem. </p>
 
-## <h1 align="center"> ![]() </h1> 
+## <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/sprint%20card%204.png) </h1> 
 --------------------------------------------------------------------------------------------------------------------
 
 
