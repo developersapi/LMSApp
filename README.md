@@ -189,52 +189,62 @@ Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métric
 
 --------------------------------------------------------------------------------------------------------------------
 
-##         <h3>Nosso sistema em funcionamento</h3>
+<h3 align="center">Nosso sistema em funcionamento!</p></h3> 
        
 <div>
-       <h4>Tela de login, Banco de Dados, Página Index</h4>
+       <h4 align="left">Tela de login, Banco de Dados, Página Index</h4>
 <img align="left" src="https://github.com/developersapi/LMSApp/blob/main/GIFs/ApresentacaoIndexparagif.gif" width="400"/>
 
-<p align="justify">Ao realizar o login, o sistema automaticamente detectará o tipo de conta do usuário e o redirecionará para o seu nível de acesso. (Administrador/Aluno/Professor)
+<p align="right">Ao realizar o login, o sistema automaticamente detectará o tipo de conta do usuário e o redirecionará para o seu nível de acesso. (Administrador/Aluno/Professor)
 </p>
-<p align="justify">O Banco de Dados, é atrelado ao sistema de forma automática, assim, todas as informações que são preenchidas no sistema, são salvas de maneira organizada, sem que o usuário precise se preocupar, com a perca de seus dados.
+<p align="right">O Banco de Dados, é atrelado ao sistema de forma automática, assim, todas as informações que são preenchidas no sistema, são salvas de maneira organizada, sem que o usuário precise se preocupar, com a perca de seus dados.
 </p>
-<p align="justify">Nossa página, possuí um designer clean, e completo de facíl manuseio para que o usuário tenha a melhor experiência com a sua aprendizagem, em nossa plataforma.
+<p align="right">Nossa página, possuí um designer clean, e completo de facíl manuseio para que o usuário tenha a melhor experiência com a sua aprendizagem, em nossa plataforma.
 </p>
 </div>
+</br></br>  
 
 <div>
        <h4 align="right">Perfil de Alunos e Professor, Banco de dados e Agenda. </h4>
 <img align="right" src="https://github.com/developersapi/LMSApp/blob/main/GIFs/loginpersonalizado_SP2.gif" width="400"/>
 
-<p align="justify">Alunos podem verificar o seu calendário, para melhor organização de aulas, disciplinas, e entre outros. 
+<p align="left">Alunos podem verificar o seu calendário, para melhor organização de aulas, disciplinas, e entre outros. 
 </p>
-<p align="justify">Professor pode gerenciar os alunos, podendo incluir os mesmos em sua turma e ter acesso completo sobre andamento dos mesmos. 
+<p align="left">Professor pode gerenciar os alunos, podendo incluir os mesmos em sua turma e ter acesso completo sobre andamento dos mesmos. 
 </p>
-<p align="justify"> Agenda, para organização geral de todos os andamentos de disciplinas, provas, resultados, dias, e entre outros dentro de nossa plataforma. 
+<p align="left"> Agenda, para organização geral de todos os andamentos de disciplinas, provas, resultados, dias, e entre outros dentro de nossa plataforma. 
 </p>
 </div>
 </br></br>
+ 
 <div>
-       <h4>Upload de arquivos, Cadastro de cursos, Responsividade das páginas.</h4>
+       <h4 align="left">Upload de arquivos, Cadastro de cursos, Responsividade das páginas.</h4>
 <img align="left" src="https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif" width="400"/>
 
-<p align="justify"> Usuários podem inserir os seus arquivos na plataforma, de forma rápida e prática.
+<p align="right"> Usuários podem inserir os seus arquivos na plataforma, de forma rápida e prática.
 </p>
-<p align="justify"> As páginas da mossa plataforma,  se adaptam ao tamanho da tela de dispositivo do usuário, ou até mesmo quando ele, minimiza ou máximiza o seu navegador.
+<p align="right"> As páginas da mossa plataforma,  se adaptam ao tamanho da tela de dispositivo do usuário, ou até mesmo quando ele, minimiza ou máximiza o seu navegador.
 </p>
+<p align="right"> Agora, já é possivél realizar o cadastreo dos cursos em nossa plataforma.
+</p> 
+</div> 
+</br></br> 
+</br></br> 
+ 
 <div>
        <h4 align="right">Chatbot, Dashboard, E-mail's do Sitema e Pílulas de Conhecimento</h4>
 <img align="right" src="https://github.com/developersapi/LMSApp/blob/sprint4/traca.gif" width="400"/>
 
-<p align="justify"> O nosso chat traça, será o parceiro diáriodos usuários. Os mesmos poderão realizar as suas perguntas, e o nosso "amiguinho" traça, reponderá a todas elas. 
+<p align="left"> O nosso chat traça, será o parceiro diáriodos usuários. Os mesmos poderão realizar as suas perguntas, e o nosso "amiguinho" traça, reponderá a todas elas. 
 </p>
-<p align="justify"> Quando os usuários adicionarem um livro, ou um arquivo, o mesmo receberá uma notificação via email.
+<p align="left"> Quando os usuários adicionarem um livro, ou um arquivo, o mesmo receberá uma notificação via email.
 </p>
-<p align="justify">Pilulas do Conhecimento - Se constituem, em vídeos curtos, em que os usuários podem adquirir um conhecimento a mais. Últimanente, esse conteúdo, também, pode ser chamado de Fast Learning.
+<p align="left">Pilulas do Conhecimento - Se constituem, em vídeos curtos, em que os usuários podem adquirir um conhecimento a mais. Últimanente, esse conteúdo, também, pode ser chamado de Fast Learning.
 </p>
 </div>
-
+</br></br> 
+ 
+<h5><a href="https://github.com/developersapi/LMSApp/blob/sprint1/README.md">Visualizar Documentações inciciais do nosso sistema.</a></h5>
 
 
 
