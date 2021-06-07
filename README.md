@@ -71,7 +71,7 @@ Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métric
 --------------------------------------------------------------------------------------------------------------------
 ## :bookmark: **_BURNDOWN_**
 
-## <h1 align="center"> <img src=""> 
+## <h1 align="center"> <img src="https://github.com/developersapi/LMSApp/blob/sprint4/grafico_burndown-sprint4.png"> 
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -79,10 +79,10 @@ Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métric
 
 ## :gear: Programa funcionando:
 ### <h1 align="center"> 1. Chatbot Traça:  </h1> 
-### <h1 align="center"> ![]() </h1> 
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/traca.gif) </h1> 
 ### <h1 align="center"> 2. Dashboard: </h1> 
 ### <h1 align="center"> ![]() </h1> 
 ### <h1 align="center"> 3. E-mail's do Sitema:  </h1> 
-### <h1 align="center"> ![]() </h1>
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/email.gif) </h1>
 ### <h1 align="center"> 4. Pílulas de Conhecimento:  </h1>
-### <h1 align="center"> ![]() </h1>
+### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/pilula.gif) </h1>
