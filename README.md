@@ -30,7 +30,12 @@
 <p>1. Chatbot - Funcionalidade desenvolvida com a finalidade de que os usuários tenham uma area de interação, para auxilio de manuseio da ferramenta, procura de documentos, 
 e entre outras informações.</p>
 <p>2. Dashboard - Um dashboard, no contexto de TI, é um painel visual que apresenta, de maneira centralizada, um conjunto informações: indicadores e suas métricas. 
-Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métricas e indicadores da plataforma de ensino. </p>
+Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métricas e indicadores da plataforma de ensino. 
+ 
+ <h5 align="center">No nosso sistema, só consta a parte de back-end, deste material. O mesmo ainda não possuí front-end.</p> </h5>  
+
+</p>
+
 <p>3. E-mails do sistema - Os e-mails são enviados e recebidos por meio de um sistema de correio eletrônico, o qual utiliza um protocolo de internet para permitir o encaminhamento dos dados. É um canal eficiente não só para manter o bom relacionamento com os alunos, toda vez que o mesmo adicionar um livro ou arquivo, o mesmo recebe uma mensagem de e-mail.</p>
 <p>4. Pilulas do Conhecimento - Se constituem, em vídeos curtos, em que os usuários podem adquirir um conhecimento a mais. Últimanente, esse conteúdo, também, pode ser chamado de Fast Learning. </p>
 </p>
@@ -80,9 +85,7 @@ Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métric
 ## :gear: Programa funcionando:
 ### <h1 align="center"> 1. Chatbot Traça:  </h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/traca.gif) </h1> 
-### <h1 align="center"> 2. Dashboard: </h1> 
-### <h1 align="center"> ![]() </h1> 
-### <h1 align="center"> 3. E-mail's do Sitema:  </h1> 
+### <h1 align="center"> 2. E-mail's do Sitema:  </h1> 
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/email.gif) </h1>
-### <h1 align="center"> 4. Pílulas de Conhecimento:  </h1>
+### <h1 align="center"> 3. Pílulas de Conhecimento:  </h1>
 ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/pilula.gif) </h1>
