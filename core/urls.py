@@ -1,6 +1,6 @@
 from django.urls import path
 from django.contrib.auth import views as auth_views
-from .views import IndexView, Index2View, CourseCreate
+from .views import DashboardView, IndexView, Index2View, CourseCreate, DashboardView
 from .import views
 
 
@@ -14,6 +14,7 @@ urlpatterns=[
     path('login/', views.login_request, name='login'),
     path('logout/', views.logout_view, name='logout'),
     path('index2', Index2View.as_view(), name='index2'),
+    path('list', DashboardView.as_view(), name='list'),
     
     #AGENDA:
 

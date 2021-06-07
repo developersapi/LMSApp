@@ -39,6 +39,9 @@ class CourseCreate(CreateView):
     fields= [ 'name']
     template_name= 'curso.html'
     success_url= reverse_lazy('course')
+
+class DashboardView(TemplateView):
+    template_name= 'list.html'
     
 
 
@@ -143,6 +146,10 @@ def create_event(request):
         )
         return HttpResponseRedirect(reverse('calendar'))
     return render(request, 'event.html', {'form': form})
+
+    tasksDoneRecently = Task.objects.filter(done='done', updated_at__gt=datetime.datetime.now()-datetime.timedelta(days=30)).count()
+    tasksDone = Task.objects.filter(done='done', user=request.user).count()
+    tasksDoing = Task.objects.filter(done='doing', user=request.user).count()
 
 class EventEdit(generic.UpdateView):
     model = Event
