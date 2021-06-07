@@ -1,4 +1,4 @@
-<p><img src="https://img.shields.io/badge/Menu%20Principal-Projeto%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></p>
+<p><img src="https://img.shields.io/badge/Menu%20Principal-Projeto%20Concluído-blue?style=for-the-badge&logo=appveyor"></p>
 <p>
 <img src="https://img.shields.io/badge/Tecnologia-PyCharm-9cf">
 <img src="https://img.shields.io/badge/Tecnologia-Django-9cf">
@@ -72,9 +72,9 @@
                      </tr>
                       <tr>
                             <td>Quarta Entrega</td>
-                            <td>Em Construção</td>
+                            <td>Chatbot, Dashboard, E-mails do Sistema e Páginas no modo Dark.c</td>
                             <td>17/05 à 06/06</td>
-                            <td><a href="">Sprint 4</td>
+                            <td><a href="https://github.com/developersapi/LMSApp/tree/sprint4">Sprint 4</a></td>
                      </tr>
               </tbody>
         </table>
@@ -123,6 +123,24 @@ Depois, para a próxima sprint. Será aprimorado o trabalho de Produção de Cer
        
        
 ## <h3 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/sprint_card_3.png) </h3>     
+ 
+ 
+ 
+ <h5>Quarta entrega :clock4:</h5>
+       <p align="justify">Está etapa do projeto, é separada em 4 partes, para que o projeto seja entregue com todos os atributos e requisitos solicitados
+ pelo cliente final: 
+        
+<p>1. Chatbot - Funcionalidade desenvolvida com a finalidade de que os usuários tenham uma area de interação, para auxilio de manuseio da ferramenta, procura de documentos, 
+e entre outras informações.</p>
+<p>2. Dashboard - Um dashboard, no contexto de TI, é um painel visual que apresenta, de maneira centralizada, um conjunto informações: indicadores e suas métricas. 
+Neste caso, epecífico, este mesmo foi criado para realizar a gestão de métricas e indicadores da plataforma de ensino. </p>
+<p>3. E-mails do sistema - Os e-mails são enviados e recebidos por meio de um sistema de correio eletrônico, o qual utiliza um protocolo de internet para permitir o encaminhamento dos dados. É um canal eficiente não só para manter o bom relacionamento com os alunos, toda vez que o mesmo adicionar um livro ou arquivo, o mesmo recebe uma mensagem de e-mail.</p>
+<p>4. Pilulas do Conhecimento - Se constituem, em vídeos curtos, em que os usuários podem adquirir um conhecimento a mais. Últimanente, esse conteúdo, também, pode ser chamado de Fast Learning. </p>
+ 
+ </p>
+
+
+## <h4 align="center"> ![](https://github.com/developersapi/LMSApp/blob/sprint4/sprint%20card%204.png) </h4> 
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -157,7 +175,11 @@ Depois, para a próxima sprint. Será aprimorado o trabalho de Produção de Cer
               </p>
  <p align="justify">
                      📈 Para ver o BURNDOWN da Sprint 3 , clique <a href="https://github.com/developersapi/LMSApp/tree/sprint3">aqui</a>.
-              </p>             
+              </p>          
+            </p>
+ <p align="justify">
+                     📈 Para ver o BURNDOWN da Sprint 4 , clique <a href="https://github.com/developersapi/LMSApp/tree/sprint4">aqui</a>.
+              </p>     
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -167,21 +189,52 @@ Depois, para a próxima sprint. Será aprimorado o trabalho de Produção de Cer
 
 --------------------------------------------------------------------------------------------------------------------
 
-## :chart_with_upwards_trend: Diagrama de caso e uso:
+##         <h3>Nosso sistema em funcionamento</h3>
+       
+<div>
+       <h4>Tela de login, Banco de Dados, Página Index</h4>
+<img align="left" src="https://github.com/developersapi/LMSApp/blob/main/GIFs/ApresentacaoIndexparagif.gif" width="400"/>
 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/use%20case%20diagram.png) </h1>
+<p align="justify">Ao realizar o login, o sistema automaticamente detectará o tipo de conta do usuário e o redirecionará para o seu nível de acesso. (Administrador/Aluno/Professor)
+</p>
+<p align="justify">O Banco de Dados, é atrelado ao sistema de forma automática, assim, todas as informações que são preenchidas no sistema, são salvas de maneira organizada, sem que o usuário precise se preocupar, com a perca de seus dados.
+</p>
+<p align="justify">Nossa página, possuí um designer clean, e completo de facíl manuseio para que o usuário tenha a melhor experiência com a sua aprendizagem, em nossa plataforma.
+</p>
+</div>
 
---------------------------------------------------------------------------------------------------------------------
+<div>
+       <h4 align="right">Perfil de Alunos e Professor, Banco de dados e Agenda. </h4>
+<img align="right" src="https://github.com/developersapi/LMSApp/blob/main/GIFs/loginpersonalizado_SP2.gif" width="400"/>
 
-## :tea: Diagrama de Classes:
+<p align="justify">Alunos podem verificar o seu calendário, para melhor organização de aulas, disciplinas, e entre outros. 
+</p>
+<p align="justify">Professor pode gerenciar os alunos, podendo incluir os mesmos em sua turma e ter acesso completo sobre andamento dos mesmos. 
+</p>
+<p align="justify"> Agenda, para organização geral de todos os andamentos de disciplinas, provas, resultados, dias, e entre outros dentro de nossa plataforma. 
+</p>
+</div>
+</br></br>
+<div>
+       <h4>Upload de arquivos, Cadastro de cursos, Responsividade das páginas.</h4>
+<img align="left" src="https://github.com/developersapi/LMSApp/blob/sprint3/telaupload.gif" width="400"/>
 
-### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/Class%20Diagram%20nEDUC.jpeg) </h1>
+<p align="justify"> Usuários podem inserir os seus arquivos na plataforma, de forma rápida e prática.
+</p>
+<p align="justify"> As páginas da mossa plataforma,  se adaptam ao tamanho da tela de dispositivo do usuário, ou até mesmo quando ele, minimiza ou máximiza o seu navegador.
+</p>
+<div>
+       <h4 align="right">Chatbot, Dashboard, E-mail's do Sitema e Pílulas de Conhecimento</h4>
+<img align="right" src="https://github.com/developersapi/LMSApp/blob/sprint4/traca.gif" width="400"/>
 
-## :tea: Diagrama de modelos de dados:
+<p align="justify"> O nosso chat traça, será o parceiro diáriodos usuários. Os mesmos poderão realizar as suas perguntas, e o nosso "amiguinho" traça, reponderá a todas elas. 
+</p>
+<p align="justify"> Quando os usuários adicionarem um livro, ou um arquivo, o mesmo receberá uma notificação via email.
+</p>
+<p align="justify">Pilulas do Conhecimento - Se constituem, em vídeos curtos, em que os usuários podem adquirir um conhecimento a mais. Últimanente, esse conteúdo, também, pode ser chamado de Fast Learning.
+</p>
+</div>
 
- ### <h1 align="center"> ![](https://github.com/developersapi/LMSApp/blob/main/diagrams/Diagrama%20Entidade%20Relacionamento.jpg) </h1> 
-
- 
 
 
 
